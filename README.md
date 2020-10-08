@@ -1,6 +1,7 @@
 ### Hi there, I'm Roman - aka wapacro 👋
 
 **Tech Stack**
+
 - 💻 &nbsp;
   [![PHP](https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=4F5B93)](https://php.net)
   [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org)
@@ -33,4 +34,5 @@
   [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com)
 
 **GitHub Stats**
+
 ![wapacro's github stats](https://github-readme-stats.vercel.app/api?username=wapacro&count_private=true&show_icons=true&hide_title=true)
