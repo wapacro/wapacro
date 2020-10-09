@@ -7,6 +7,7 @@
   [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![C#](https://img.shields.io/badge/-C--Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp)
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org)
   [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - 🖼 &nbsp;
@@ -32,6 +33,10 @@
   [![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=003100)](https://notepad-plus-plus.org)
   [![Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=powershell&logoColor=ffffff)](https://github.com/microsoft/terminal)
   [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com)
+  [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
+- 🖌 &nbsp;
+  [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)](https://www.adobe.com/products/photoshop.html)
+  [![Xd](https://img.shields.io/badge/-Xd-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=ffffff)](https://www.adobe.com/products/xd.html)
 
 #### GitHub Stats
 
