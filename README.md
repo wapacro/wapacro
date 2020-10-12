@@ -15,6 +15,7 @@
   [![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=ffffff)](https://adonisjs.com)
   [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=ffffff)](https://vuejs.org)
   [![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=ffffff)](https://dotnet.microsoft.com/apps/xamarin)
+  [![UWP](https://img.shields.io/badge/-UWP-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff)](https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide)
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com)
 - 💾 &nbsp;
   [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com)
