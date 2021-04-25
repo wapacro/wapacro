@@ -37,6 +37,7 @@
 - 🖌 &nbsp;
   [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)](https://www.adobe.com/products/photoshop.html)
   [![Xd](https://img.shields.io/badge/-Xd-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=ffffff)](https://www.adobe.com/products/xd.html)
+  [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)](https://www.figma.com)
 
 #### GitHub Stats
 
