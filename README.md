@@ -41,4 +41,4 @@
 
 #### GitHub Stats
 
-![wapacro's github stats](https://github-readme-stats.vercel.app/api?username=wapacro&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent)
+![wapacro's github stats](https://github-readme-stats.vercel.app/api?username=wapacro&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true)
